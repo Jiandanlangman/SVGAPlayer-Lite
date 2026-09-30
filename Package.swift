@@ -11,6 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "SVGAPlayerLite",
+            type: .dynamic, 
             targets: ["SVGAPlayerLite"]
         )
     ],
