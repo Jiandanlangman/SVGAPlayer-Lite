@@ -49,7 +49,6 @@ let package = Package(
                 .linkedFramework("QuartzCore"),
                 .linkedFramework("CoreMedia"),
                 .linkedFramework("CoreVideo"),
-                .linkedFramework("AVFoundation"),
             ]
         ),
     ]
